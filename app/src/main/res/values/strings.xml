@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherX</string>
+
+    <string name="timeDescription"> Sunny conditions will continue for the rest \n of the day. Wind gusts are up to 30 kph. </string>
+    <string name="my_location">My Location</string>
+
+    <item name="cityXcount" type="id" />
+<!--    <item name="weather_item_id" type="id" />-->
+</resources>
